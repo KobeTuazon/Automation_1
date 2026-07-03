@@ -5,7 +5,8 @@
 
 ### Remaining Day/s: 94
 
-## Sprint: 1
+## Current Sprint: 1
 
 #### Name: System & UI Research Planning
 
+#### 
