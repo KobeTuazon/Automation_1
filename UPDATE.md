@@ -1,4 +1,4 @@
 
-# Sprint: $json.Sprint
+# Sprint: 1
 
-##     Name: $json.Name
+##     Name: System & UI Research Planning
