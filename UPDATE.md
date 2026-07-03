@@ -1,4 +1,4 @@
 
 # Sprint: 1
 
-##     Name: System & UI Research Planning
+## - Name: System & UI Research Planning
