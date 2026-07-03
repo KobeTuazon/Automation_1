@@ -3,7 +3,7 @@
 
 ### Deadline: 10/5/2026
 
-### Remaining Day/s: 94
+### Remaining 93
 
 ## Current Sprint: 1: System & UI Research Planning
 
