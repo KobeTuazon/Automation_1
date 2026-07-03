@@ -1,6 +1,6 @@
 
 # Project: Kopi
-### remaining days: 93
+### Remaining Day/s: 93
 
 ## Sprint: 1
-#### remaining days: 4
+#### Remaining Day/s: 4
