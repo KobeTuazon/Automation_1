@@ -5,4 +5,4 @@
 
 #### Deadline: $('Special Data').item.json['Project Deadline']
 
-#### Remaining Day/s: NaN
+#### Remaining Day/s: -93
