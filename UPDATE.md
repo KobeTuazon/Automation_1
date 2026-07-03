@@ -9,4 +9,3 @@
 
 #### Name: System & UI Research Planning
 
-#### 
