@@ -8,4 +8,3 @@
 ## Current Sprint: 1: System & UI Research Planning
 
 #### Deadline: 07-11-2026
-#### 
