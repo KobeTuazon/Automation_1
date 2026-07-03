@@ -1,4 +1,6 @@
 
-# Project: undefined
-### Has not started yet.
-### Starts In: 2 day/s
+# Project: Kopi
+### Remaining Day/s: 93
+
+## Sprint: 1
+#### Remaining Day/s: 4
