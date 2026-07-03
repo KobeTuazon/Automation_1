@@ -3,6 +3,6 @@
 
 ## Name: System & UI Research Planning
 
-#### Deadline: $('Special Data').item.json['Project Deadline']
+#### Deadline: 10/5/2026
 
 #### Remaining Day/s: 94
